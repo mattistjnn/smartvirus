@@ -8,3 +8,4 @@ cd %demarrage%
 copy download.bat "%demarrage2%"
 
 copy chocoblast.bat "%demarrage2%"
+exit
