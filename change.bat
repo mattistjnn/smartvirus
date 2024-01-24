@@ -6,6 +6,4 @@ set "demarrage2=%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Progr
 cd %demarrage%
 
 copy download.bat "%demarrage2%"
-
-copy chocoblast.bat "%demarrage2%"
 exit
