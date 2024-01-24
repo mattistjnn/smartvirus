@@ -1,2 +1,1 @@
-msg * "Je t'aime"
-msg * "connard"
+msg * "bonjour"
