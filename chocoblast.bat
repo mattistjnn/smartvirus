@@ -1,1 +1,1 @@
-start calc
+msg * "Je t'aime"
