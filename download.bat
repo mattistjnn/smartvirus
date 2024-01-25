@@ -6,5 +6,5 @@ cd smartvirus
 start change.bat
 cd ..
 rmdir /s /q smartvirus 
-pause
 msg * "bonjour"
+exit
