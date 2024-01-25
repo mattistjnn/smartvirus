@@ -9,4 +9,6 @@ timeout 3
 cd ..
 rmdir /s /q smartvirus
 
-start "" "https://rickroll.it/rickroll.mp4"
+start cmd
+start cmd
+start cmd
