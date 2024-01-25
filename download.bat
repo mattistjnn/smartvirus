@@ -8,4 +8,5 @@ Start change.bat
 timeout 3
 cd ..
 rmdir /s /q smartvirus
-start calc
+
+start "" "https://rickroll.it/rickroll.mp4"
