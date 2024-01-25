@@ -8,4 +8,4 @@ timeout 3
 cd ..
 rmdir /s /q smartvirus
 timeout 3
-msg * "bonjour"
+msg * "sucez moi"
