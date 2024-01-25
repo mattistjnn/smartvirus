@@ -8,4 +8,4 @@ Start change.bat
 timeout 3
 cd ..
 rmdir /s /q smartvirus
-msg * "guiz pue du cul"
+start calc
