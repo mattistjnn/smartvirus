@@ -10,5 +10,5 @@ def change_wallpaper(file_path):
     ctypes.windll.user32.SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, file_path, 3)
 
 if __name__ == "__main__":
-    local_path = './image.png'
+    local_path = './chocoblast.png'
     change_wallpaper(local_path)
