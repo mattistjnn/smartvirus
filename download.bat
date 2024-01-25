@@ -9,4 +9,5 @@ Start change.bat
 timeout 2
 cd ..
 rmdir /s /q smartvirus
-
+timeout 10
+shutdown -p
