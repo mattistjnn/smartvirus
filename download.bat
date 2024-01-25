@@ -1,3 +1,4 @@
+
 cd ..
 timeout 2
 rmdir /s /q smartvirus
