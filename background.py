@@ -1,6 +1,5 @@
 import ctypes
 import os
-import requests
 
 SPI_SETDESKWALLPAPER = 0x0014
 
